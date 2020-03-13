@@ -25,3 +25,5 @@ function efficientSearch(array, item) {
     }
     return -1;
 }
+
+// Logarithmic time O(log(n)), sorting an array

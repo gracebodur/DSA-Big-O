@@ -9,3 +9,5 @@ function isWhat(n) {
     }
     return true;
 }
+
+// Logarithmic time O(log(n)), Some fraction of the remaining input is processed in each iteration

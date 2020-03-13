@@ -8,4 +8,7 @@ function isEven(value) {
         return false;
     }
 
+    isEven(2)
 
+
+// Constant time 0(1), it only goes to one operation no matter how much is the input

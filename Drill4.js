@@ -6,3 +6,5 @@ function doubleArrayValues(array) {
     }
     return array;
 }
+
+// Linear time 0(n) 

@@ -7,3 +7,5 @@ function naiveSearch(array, item) {
         }
     }
 }
+
+// Linear time - Iterate through the entire array once to find the correct item

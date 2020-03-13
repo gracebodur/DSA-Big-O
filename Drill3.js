@@ -10,3 +10,5 @@ function areYouHere(arr1, arr2) {
     }
     return false;
 }
+
+// Polynomial time O(n^2) or O(n^k) There are 2 nested loops which increases the time to complete

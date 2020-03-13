@@ -3,3 +3,5 @@
 function findRandomElement(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
 }
+
+// Constant time 0(1), consistenly accessing the same array.

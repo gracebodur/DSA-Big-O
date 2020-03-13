@@ -7,3 +7,5 @@ function createPairs(arr) {
         }
     }
 }
+
+// Polynomial 0(n^2) because there is a nested loop that would require 2 levels of looping over an input

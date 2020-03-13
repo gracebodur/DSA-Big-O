@@ -16,3 +16,5 @@ function compute(num) {
     }
     return result;
 }
+
+// Logarithmic time O(log(n))
